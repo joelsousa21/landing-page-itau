@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Tailwind Documentation
 https://tailwindcss.com/docs/installation
+
+Tutorial
+https://www.youtube.com/watch?v=6-2xfn6wzvU&t=1524s
